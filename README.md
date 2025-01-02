@@ -1,1 +1,2 @@
-Plugins released by Ethan Vann
+released by Ethan Vann
+expanded by Specter
